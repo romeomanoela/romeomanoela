@@ -24,4 +24,10 @@ Currently working at [@MyclicTeam](https://github.com/MyclicTeam), where I build
 **DevOps & Cloud**<br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,aws,gcp,terraform,ansible,prometheus,grafana,vercel,git" alt="DevOps stack" />
 
+### 🟩 Contributions
+
+<a href="https://github.com/romeomanoela">
+  <img src="https://ghchart.rshah.org/romeomanoela" alt="Roméo's GitHub contribution graph" width="100%" />
+</a>
+
 <sub>💬 Open to freelance work and collaborations. Reach me on [LinkedIn](https://www.linkedin.com/in/romeomanoela/).</sub>
