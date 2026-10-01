@@ -12,10 +12,10 @@ Currently working at [@MyclicTeam](https://github.com/MyclicTeam), where I build
 ### 🧰 Tech stack
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,postgres,redis,supabase,sqlite,rabbitmq" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,supabase,sqlite,rabbitmq" alt="Backend stack" />
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs" alt="Frontend stack" />
 
 **AI / Machine Learning**<br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" alt="ML frameworks" /><br>
