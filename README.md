@@ -13,7 +13,6 @@ Currently working at [@MyclicTeam](https://github.com/MyclicTeam), where I build
 - [**MyclicTeam**](https://github.com/MyclicTeam): building SaaS products end to end
 - [**Kubiweb**](https://github.com/kubiweb) · [kubiweb.fr](https://kubiweb.fr): web & communication
 - [**Automya**](https://github.com/orga-automya-saas) · [automya.fr](https://automya.fr): SaaS
-- [**PythonLabs**](https://github.com/pythonlabs): open-source Python libraries such as [fast-jwt-auth](https://github.com/pythonlabs/fast_jwt)
 
 ---
 ### 🟩 Contributions
