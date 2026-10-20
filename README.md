@@ -10,10 +10,4 @@ Working full-time at [@MyclicTeam](https://github.com/MyclicTeam), where I build
 - [**Kubiweb**](https://github.com/kubiweb) · [kubiweb.fr](https://kubiweb.fr): web & communication
 - [**Automya**](https://github.com/orga-automya-saas) · [automya.fr](https://automya.fr): SaaS, LinkedIn, AI
 ---
-### 🟩 Contributions
-
-<a href="https://github.com/romeomanoela">
-  <img src="https://ghchart.rshah.org/romeomanoela" alt="Roméo's GitHub contribution graph" width="100%" />
-</a>
-
 <sub>💬 Open to freelance work and collaborations. Reach me on [LinkedIn](https://www.linkedin.com/in/romeomanoela/).</sub>
